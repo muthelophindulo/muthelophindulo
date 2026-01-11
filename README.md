@@ -1,54 +1,70 @@
-# Hi there, I'm Muthelo Phindulo 👋
+# Hi there, I'm Muthelo Phindulo 👨‍💻
 
-[!github stats(https://github-readme-stats.vercel.app/api?username=muthelophindulo&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+**Computer Science & IT Student | Passionate Java Backend Developer**
 
-## 👨‍💻 About Me
-I'm a [Your Profession, e.g., Full-Stack Developer, Student] passionate about [Your Interests, e.g., building web applications, open source, machine learning].
-
-- 🔭 I’m currently working on: **[Your Current Project]**
-- 🌱 I’m currently learning: **[A Technology or Skill]**
-- 👯 I’m looking to collaborate on: **[Type of Projects, e.g., open-source, React projects]**
-- 📫 How to reach me: **[Your Email or Preferred Contact Method]**
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A short, interesting fact about you]
-
-## 🛠️ Technologies & Tools
-Here are some of the things I work with:
-
-**Languages:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-<!-- Add more languages as needed -->
-
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-<!-- Add more frameworks as needed -->
-
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-<!-- Add more tools as needed -->
-
-## 📈 GitHub Stats & Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-## 📌 Pinned Repositories
-You can pin specific repositories to your profile. They will appear here.
-Simply replace the following links with your own repository details.
-
-[![Repo 1 Name](https://github-readme-stats.vercel.app/api/pin/?username=[Your-GitHub-Username]&repo=[Repository-Name-1])](https://github.com/[Your-GitHub-Username]/[Repository-Name-1])
-[![Repo 2 Name](https://github-readme-stats.vercel.app/api/pin/?username=[Your-GitHub-Username]&repo=[Repository-Name-2])](https://github.com/[Your-GitHub-Username]/[Repository-Name-2])
--->
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn Profile URL])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Your Twitter Profile URL])
-[![Personal Website/Blog](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)]([Your Website URL])
-<!-- Add other social links as needed -->
+I'm a dedicated student at UKZN with a deep interest in building strong, secure, and scalable backend systems for web applications using **Java** and **Spring Boot**. My goal is to engineer robust solutions that form the reliable foundation of great software.
 
 ---
-⭐️ *This README is a living document and gets updated as I learn and build new things.*
+
+### 🔭 Current Focus Project: **GradeGoal**
+
+I was inspired to build **GradeGoal** based on my own experience as a first-year student. Navigating academic challenges without a clear way to track progress or set goals was difficult. GradeGoal is a web application designed to solve this.
+- **Backend**: Built with **Spring Boot**, handling data logic, user management, and target setting securely.
+- **Frontend**: Utilizes AI-powered components for an intuitive user experience.
+- **Purpose**: Allows students to input their marks, assessments, and courses, set academic targets, and get the visual motivation needed to study harder.
+
+This project is a personal mission to turn a challenge into a tool for empowerment.
+
+---
+
+### 🛠️ Technologies & Tools
+
+**Languages:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Backend Framework:**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Tools & DevOps:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🌱 What I'm Learning & Exploring
+- Deepening my expertise in **Spring Boot** (Security, Data, MVC).
+- Exploring microservices architecture and containerization with **Docker**.
+- Best practices for building **secure and efficient** backend APIs.
+
+### 👯 Collaboration Interests
+I am actively looking to collaborate on projects involving:
+- The **Java** ecosystem, especially **Spring Boot**.
+- Open-source tools that aid in education or developer productivity.
+- Any backend challenge that requires a thoughtful and secure approach.
+
+---
+
+### 📈 GitHub Stats
+
+| <a href="https://github.com/muthelophindulo"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=muthelophindulo&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Muthelo's GitHub Stats" /> </a> | <a href="https://github.com/muthelophindulo"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthelophindulo&layout=compact&theme=default&hide_border=true&langs_count=8" /> </a> |
+| ------------- | ------------- |
+
+---
+
+### 📫 Let's Connect & Collaborate
+I'm always open to discussing technology, collaboration opportunities, or new ideas.
+
+- **📧 Professional Email**: [muthelophindulo223@icloud.com](mailto:muthelophindulo223@icloud.com)
+- **🌐 Personal Portfolio**: [Visit My Portfolio Site](https://muthelophindulo.github.io/mutelephindulo.github.io/)
+- **💼 LinkedIn**: *[Your LinkedIn Profile URL]* <!-- Consider adding this later! -->
+- **🐙 GitHub**: [muthelophindulo](https://github.com/muthelophindulo)
+
+---
+
+### ⚡ A Final Thought
+> "The best way to predict the future is to create it." – I believe in building the tools and systems that shape better experiences, starting with **GradeGoal** for students like myself.
+
+*This README is as dynamic as my learning journey—it will evolve as I do.*
