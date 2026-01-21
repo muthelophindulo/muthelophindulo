@@ -59,7 +59,7 @@ I'm always open to discussing technology, collaboration opportunities, or new id
 
 - **📧 Professional Email**: [muthelophindulo223@icloud.com](mailto:muthelophindulo223@icloud.com)
 - **🌐 Personal Portfolio**: [Visit My Portfolio Site](https://muthelophindulo.github.io/mutelephindulo.github.io/)
-- **💼 LinkedIn**: *[Your LinkedIn Profile URL]* <!-- Consider adding this later! -->
+- **💼 LinkedIn**: *[Linkedin](https://www.linkedin.com/in/muthelo-phindulo-942961209?utm_source=share_via&utm_content=profile&utm_medium=member_ios)* 
 - **🐙 GitHub**: [muthelophindulo](https://github.com/muthelophindulo)
 
 ---
