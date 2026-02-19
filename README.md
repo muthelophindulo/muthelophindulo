@@ -1,4 +1,4 @@
-# Hi there, I'm Muthelo Phindulo 👨‍💻
+# Hi there, I'm Muthelo Phindulo 
 
 **Computer Science & IT Student | Passionate Java Backend Developer**
 
@@ -6,7 +6,7 @@ I'm a dedicated student at UKZN with a deep interest in building strong, secure,
 
 ---
 
-### 🔭 Current Focus Project: **GradeGoal**
+###  Current Focus Project: **GradeGoal**
 
 I was inspired to build **GradeGoal** based on my own experience as a first-year student. Navigating academic challenges without a clear way to track progress or set goals was difficult. GradeGoal is a web application designed to solve this.
 - **Backend**: Built with **Spring Boot**, handling data logic, user management, and target setting securely.
@@ -17,7 +17,7 @@ This project is a personal mission to turn a challenge into a tool for empowerme
 
 ---
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 **Languages:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,15 +31,16 @@ This project is a personal mission to turn a challenge into a tool for empowerme
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Intelij](https://img.shields.io/badge/intelij-008ACC?style=for-the-badge&logo=intelij&logoColor=white)
 
 ---
 
-### 🌱 What I'm Learning & Exploring
+###  What I'm Learning & Exploring
 - Deepening my expertise in **Spring Boot** (Security, Data, MVC).
 - Exploring microservices architecture and containerization with **Docker**.
 - Best practices for building **secure and efficient** backend APIs.
 
-### 👯 Collaboration Interests
+###  Collaboration Interests
 I am actively looking to collaborate on projects involving:
 - The **Java** ecosystem, especially **Spring Boot**.
 - Open-source tools that aid in education or developer productivity.
@@ -47,24 +48,24 @@ I am actively looking to collaborate on projects involving:
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 | <a href="https://github.com/muthelophindulo"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=muthelophindulo&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Muthelo's GitHub Stats" /> </a> | <a href="https://github.com/muthelophindulo"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthelophindulo&layout=compact&theme=default&hide_border=true&langs_count=8" /> </a> |
 | ------------- | ------------- |
 
 ---
 
-### 📫 Let's Connect & Collaborate
+###  Let's Connect & Collaborate
 I'm always open to discussing technology, collaboration opportunities, or new ideas.
 
-- **📧 Professional Email**: [muthelophindulo223@icloud.com](mailto:muthelophindulo223@icloud.com)
-- **🌐 Personal Portfolio**: [Visit My Portfolio Site](https://muthelophindulo.github.io/mutelephindulo.github.io/)
-- **💼 LinkedIn**: *[Linkedin](https://www.linkedin.com/in/muthelo-phindulo-942961209?utm_source=share_via&utm_content=profile&utm_medium=member_ios)* 
-- **🐙 GitHub**: [muthelophindulo](https://github.com/muthelophindulo)
+- ** Professional Email**: [muthelophindulo223@icloud.com](mailto:muthelophindulo223@icloud.com)
+- ** Personal Portfolio**: [Visit My Portfolio Site](https://muthelophindulo.github.io/mutelephindulo.github.io/)
+- ** LinkedIn**: *[Linkedin](https://www.linkedin.com/in/muthelo-phindulo-942961209?utm_source=share_via&utm_content=profile&utm_medium=member_ios)* 
+- ** GitHub**: [muthelophindulo](https://github.com/muthelophindulo)
 
 ---
 
-### ⚡ A Final Thought
+###  A Final Thought
 > "The best way to predict the future is to create it." – I believe in building the tools and systems that shape better experiences, starting with **GradeGoal** for students like myself.
 
 *This README is as dynamic as my learning journey—it will evolve as I do.*
