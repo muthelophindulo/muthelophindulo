@@ -58,10 +58,10 @@ I am actively looking to collaborate on projects involving:
 ###  Let's Connect & Collaborate
 I'm always open to discussing technology, collaboration opportunities, or new ideas.
 
-- ** Professional Email**: [muthelophindulo223@icloud.com](mailto:muthelophindulo223@icloud.com)
-- ** Personal Portfolio**: [Visit My Portfolio Site](https://muthelophindulo.github.io/mutelephindulo.github.io/)
-- ** LinkedIn**: *[Linkedin](https://www.linkedin.com/in/muthelo-phindulo-942961209?utm_source=share_via&utm_content=profile&utm_medium=member_ios)* 
-- ** GitHub**: [muthelophindulo](https://github.com/muthelophindulo)
+- **Professional Email** : [muthelophindulo223@icloud.com](mailto:muthelophindulo223@icloud.com)
+- **Personal Portfolio**: [Visit My Portfolio Site](https://muthelophindulo.github.io/mutelephindulo.github.io/)
+- **LinkedIn**: *[Linkedin](https://www.linkedin.com/in/muthelo-phindulo-942961209?utm_source=share_via&utm_content=profile&utm_medium=member_ios)* 
+- **GitHub**: [muthelophindulo](https://github.com/muthelophindulo)
 
 ---
 
