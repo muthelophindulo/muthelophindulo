@@ -48,10 +48,17 @@ I am actively looking to collaborate on projects involving:
 
 ---
 
-###  GitHub Stats
+## 📊 GitHub Stats for Your README
 
-| <a href="https://github.com/muthelophindulo"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=muthelophindulo&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Muthelo's GitHub Stats" /> </a> | <a href="https://github.com/muthelophindulo"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthelophindulo&layout=compact&theme=default&hide_border=true&langs_count=8" /> </a> |
-| ------------- | ------------- |
+| Stat Type | Description | Example Markdown | Customization Options |
+|-----------|-------------|------------------|------------------------|
+| **GitHub Stats Card** | Shows your total stars, commits, PRs, issues, and more. | `![GitHub stats](https://github-readme-stats.vercel.app/api?username=muthelophindulo)` | `&show_icons=true`, `&theme=dark`, `&hide=stars,commits`, `&count_private=true` |
+| **Top Languages** | Displays the programming languages you use most across your repositories. | `![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthelophindulo&layout=compact)` | `&layout=compact`, `&langs_count=6`, `&theme=dark`, `&hide=html,css` |
+| **GitHub Streak Stats** | Shows your current streak of consecutive contributions. | `![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muthelophindulo)` | `&theme=dark`, `&hide_border=true`, `&date_format=M j[, Y]` |
+| **GitHub Profile Trophy** | Displays a grid of trophies based on your activity across repositories. | `![trophy](https://github-profile-trophy.vercel.app/?username=muthelophindulo)` | `&theme=darkhub`, `&column=4`, `&margin-w=15`, `&no-frame=true` |
+| **Profile Summary Cards** | Provides multiple cards (stats, languages, commits, etc.) in a flexible layout. | `![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muthelophindulo&theme=vue)` | `theme=vue`, `github_dark`, etc. Also offers per-repo and top-languages cards. |
+| **Shields.io Badges** | Customizable badges for followers, repo stars, forks, and more. | `![Followers](https://img.shields.io/github/followers/muthelophindulo?style=social)`<br>`![Stars](https://img.shields.io/github/stars/muthelophindulo/gradegoal?style=social)` | `style=social`, `flat`, `for-the-badge`; add `&label=Follow` to change text. |
+| **Visitors Counter** | Shows how many times your profile has been viewed (using a hit counter service). | `![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmuthelophindulo&label=Visitors&countColor=%23263759)` | Customize color, label, and style via the [Visitor Badge](https://www.visitorbadge.io/) website. |
 
 ---
 
