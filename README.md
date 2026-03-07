@@ -48,10 +48,12 @@ I am actively looking to collaborate on projects involving:
 
 ---
 
-###  GitHub Stats
+## Stat
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/muthelophindulo?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-| <a href="https://github.com/muthelophindulo"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=muthelophindulo&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Muthelo's GitHub Stats" /> </a> | <a href="https://github.com/muthelophindulo"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthelophindulo&layout=compact&theme=default&hide_border=true&langs_count=8" /> </a> |
-| ------------- | ------------- |
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muthelophindulo&theme=dark&theme=darkbg_color=ffffff&title_color=8a2be2_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muthelophindulo)
 
 ---
 
