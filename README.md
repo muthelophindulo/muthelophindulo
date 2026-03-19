@@ -55,6 +55,7 @@ I am actively looking to collaborate on projects involving:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muthelophindulo)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muthelophindulo&theme=dark&theme=darkgg_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ###  Let's Connect & Collaborate
